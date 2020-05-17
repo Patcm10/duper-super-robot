@@ -1,2 +1,2 @@
 # duper-super-robot
-This is a test of Data Analytics course
+This is a test for Data Analytics course
